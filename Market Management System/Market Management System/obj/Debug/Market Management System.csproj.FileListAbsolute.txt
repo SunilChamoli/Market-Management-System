@@ -1,0 +1,15 @@
+C:\Users\sunil\source\repos\Market Management System\Market Management System\bin\Debug\Market Management System.exe.config
+C:\Users\sunil\source\repos\Market Management System\Market Management System\bin\Debug\Market Management System.exe
+C:\Users\sunil\source\repos\Market Management System\Market Management System\bin\Debug\Market Management System.pdb
+C:\Users\sunil\source\repos\Market Management System\Market Management System\bin\Debug\Guna.UI2.dll
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market Management System.csproj.AssemblyReference.cache
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market_Management_System.LoginForm.resources
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market_Management_System.Properties.Resources.resources
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market Management System.csproj.GenerateResource.cache
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market Management System.csproj.CoreCompileInputs.cache
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market M.D38C0026.Up2Date
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market Management System.exe
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market Management System.pdb
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market_Management_System.ProductForm.resources
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market_Management_System.CategoryForm.resources
+C:\Users\sunil\source\repos\Market Management System\Market Management System\obj\Debug\Market_Management_System.SellerForm.resources
